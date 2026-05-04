@@ -17,6 +17,16 @@ cd laravel-book-app
 composer install --prefer-dist
 ```
 
+## Environment setup
+```bash
+cp .env.example .env
+```
+
+Generate application key:
+```bash
+php artisan key:generate
+```
+
 ## Configure database
 
 ```bash
