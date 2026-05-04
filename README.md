@@ -8,7 +8,7 @@ Clone the project
 
 ```bash
 git clone https://github.com/DenisFriz/laravel-book-app.git
-cd book-app
+cd laravel-book-app
 ```
 
 ## Install dependencies
